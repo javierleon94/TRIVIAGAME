@@ -1,3 +1,1 @@
-## A Pixar Trivia Jr.
-
-Pixar Trivia!
+## A Pixar Trivia!!
