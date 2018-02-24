@@ -32,16 +32,12 @@ h2, #message, #finalMessage{
 }
 
 .thisChoice:hover{
-	background-color: #202364;
+	background-color: #cbff63;
 	color: white;
 	padding: 10px;
 }
 
-.gifImg{
-	margin: 30px;
-	max-width: 400px;
-	align: center;
-}
+
 
 @media screen and (max-width:640px){
 	.container{
